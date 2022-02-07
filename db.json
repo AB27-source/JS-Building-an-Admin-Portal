@@ -3,16 +3,16 @@
     {
       "id": 1,
       "title": "The Shinobi Initiative",
-      "description": "The reality-bending adventures of a clandestine service agency in the year 2166",
+      "description": "The reality-bending advetures",
       "year": 2014,
       "quantity": "10",
-      "imageURL": "/assets/shinobi-initiative.jpeg"
+      "imageURL": "assets/shinobi-initiative.jpeg"
     },
     {
       "id": 2,
       "title": "Tess the Wonder Dog",
-      "description": "The tale of a dog who gets super powers",
-      "year": 2007,
+      "description": "The talee of a dog who gets super powers",
+      "year": "2007",
       "quantity": "3",
       "imageURL": "/assets/tess.jpg"
     },
@@ -21,7 +21,7 @@
       "title": "The Annals of Arathrae",
       "description": "This anthology tells the intertwined narratives of six fairy tales.",
       "year": 2016,
-      "quantity": "8",
+      "quantity": "6",
       "imageURL": "/assets/arathrae.jpeg"
     },
     {
@@ -31,6 +31,30 @@
       "year": 2010,
       "quantity": "4",
       "imageURL": "/assets/warp.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Salem's Lot",
+      "year": 2022,
+      "quantity": "9",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81zqDem9OvL.jpg",
+      "description": "'Salem's Lot is a 1975 horror novel by American author Stephen King. It was his second published novel. The story involves a writer named Ben Mears who returns to the town of Jerusalem's Lot in Maine, where he lived from the age of five through nine, only to discover that the residents are becoming vampires."
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2022,
+      "quantity": "5",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
+      "description": "The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a few enemies during his first year at the school, and with the help of his friends, he faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just 15 months old."
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2022,
+      "quantity": "7",
+      "imageURL": "https://m.media-amazon.com/images/I/71ykU-RQ0nL._AC_SL1000_.jpg",
+      "description": "Harry Potter and the Goblet of Fire is a fantasy novel written by British author J. K. Rowling and the fourth novel in the Harry Potter series."
     }
   ]
 }
